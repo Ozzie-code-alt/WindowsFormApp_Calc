@@ -1,0 +1,11 @@
+C:\Users\justi\Desktop\calc01\calc01\bin\Debug\calc01.exe.config
+C:\Users\justi\Desktop\calc01\calc01\bin\Debug\calc01.exe
+C:\Users\justi\Desktop\calc01\calc01\bin\Debug\calc01.pdb
+C:\Users\justi\Desktop\calc01\calc01\obj\Debug\calc01.csproj.AssemblyReference.cache
+C:\Users\justi\Desktop\calc01\calc01\obj\Debug\calc01.csproj.SuggestedBindingRedirects.cache
+C:\Users\justi\Desktop\calc01\calc01\obj\Debug\calc01.Form1.resources
+C:\Users\justi\Desktop\calc01\calc01\obj\Debug\calc01.Properties.Resources.resources
+C:\Users\justi\Desktop\calc01\calc01\obj\Debug\calc01.csproj.GenerateResource.cache
+C:\Users\justi\Desktop\calc01\calc01\obj\Debug\calc01.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\calc01\calc01\obj\Debug\calc01.exe
+C:\Users\justi\Desktop\calc01\calc01\obj\Debug\calc01.pdb
